@@ -39,7 +39,7 @@ export default class TabBar extends Component{
               <NavigatorIOS 
               style={[styles.container,{flex :1,marginTop :0}]}
               initialRoute={{
-                  title : 'News List',
+                  title : 'News',
                   component : NewsList,
               }}
               />

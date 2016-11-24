@@ -70425,6 +70425,7 @@ writingDirection:'ltr',
 lineHeight:20},
 
 webview_style:{
+marginTop:-38,
 backgroundColor:'#00ff00'}});
 }, "zhihuDaily/App/NewsDetail.js");
 __d(552 /* zhihuDaily/App/Loading.js */, function(global, require, module, exports) {Object.defineProperty(exports,"__esModule",{value:true});var _react=require(12 /* react */);var _react2=babelHelpers.interopRequireDefault(_react);
@@ -70492,7 +70493,7 @@ selectedTab:'blueTab'});
 _react2.default.createElement(_reactNative.NavigatorIOS,{
 style:[styles.container,{flex:1,marginTop:0}],
 initialRoute:{
-title:'News List',
+title:'News',
 component:_NewsList2.default}})),
 
 

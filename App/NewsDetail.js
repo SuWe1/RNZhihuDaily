@@ -114,6 +114,7 @@ const styles= StyleSheet.create({
         lineHeight : 20
     },
     webview_style:{  
+        marginTop : -38,
        backgroundColor:'#00ff00',   
     },
 });
