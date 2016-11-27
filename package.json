@@ -8,7 +8,9 @@
   },
   "dependencies": {
     "react": "15.3.2",
-    "react-native": "0.37.0"
+    "react-native": "0.37.0",
+    "react-native-root-toast": "^1.0.3",
+    "react-native-scrollable-tab-view": "^0.7.0"
   },
   "jest": {
     "preset": "jest-react-native"
